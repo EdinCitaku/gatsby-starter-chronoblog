@@ -19,11 +19,11 @@ So how do linked databases work?
 Essentially its just one single database that can be used in different workspaces where changes in one workspace affect the other one.
 Creating a linked database is quite easy, just go to the page where you want to create one and type the command just like in the picture below.
 There you can choose which database you want to link to.
-![linked-database](linked-database.png)
+![linked-database](./linked-database.png)
 Of course we have to have an original database first before we can link to it.
 When creating a linked database, you will notice that it is not formatted properly and does not use the full width of the page.
 In order to fix this you have to go to the settings on the top right and enable the option 'full-width'.
-![full-width](full-width.png)
+![full-width](./full-width.png)
 
 
 ## A simple example 
@@ -37,22 +37,23 @@ We want both in one singular database. Let's see how to do it!
 
 First we create a new workspace with a single database inside. This will be our main database that we link to from any other workplace.
 We choose the calendar view since we want to see all dates from any workspace we use it in.
-![Calendar](Calendar.png)
+![Calendar](./Calendar.png)
 The next step is to create our first linked database. Let's begin with a one for university assignments.
 After creating it we need to add different fields to track our assignments. In this example we have one field for the due date, one field for the pdf and a checkbox to check whether we are done with the assignment.
 The trick now is to add a new field, we call it "Tag", as a "Select" property type. 
-We use this field in order to filter our different linked databases. All of our entries in our university page will have a Tag named "University".
+We use this field in order to filter our different linked databases. All of our entries in our university page will have a Tag named "University". This is how an an entry will look like with all its fields.
+![Fields](./fields.png)
 After doing all this, there is one final step: We must create a new View and add a filter to this view in order to only show entries with the proper tag.
 Creating a new view is quite simple as you can see on the screenshot below. Just navigate to the view selector and then click on "Add a view".
 In our case we create a view with the name "University". 
-![Create a view](create-view.png)
+![Create a view](./create-view.png)
 
 In order to add a filter to this view we navigate to the top right of the database and click on "Filter". Here we set the filter option to "Tag is University" as seen in the screenshot.
-![Add filter](add-filter.png)
+![Add filter](./add-filter.png)
 Dont forget to again set the page to full width.
  
  Here is how the final page could look like. Note that we can just hide the "Tag" field, since it doesn't give us any important information.
-![University](University.png)
+![University](./University.png)
 
 ## Adding a second linked database
 Next we want to keep track of our travel plans. So let's do this!
@@ -60,11 +61,10 @@ We again create a new page create a new linked database to our calendar.
 We continue doing the same steps as before! Instead of creating a Tag called "University" we create one called "Travel".
 Additionally, our travel plans need new fields. But that's no problem. If you create a new linked database you will see all the fields from the main database, some of which you dont need.
 We simply hide those fields we don't need and just create new ones.
-![Travel](Travel.png)
+![Travel](./Travel.png)
 ## The final result
 
 Finally we are finished! If we go back to our original calendar page we can now see ALL the events from all databases that link to them!
 How neat is that?!
-![Final Calendar](final-calendar.png)
-
+![Final Calendar](./final-calendar.png)
 I hope you can use this trick to great use just like I do every day :)
