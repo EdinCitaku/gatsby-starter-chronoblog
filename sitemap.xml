@@ -28,7 +28,7 @@
 <url> <loc>http://localhost:8000/01-loading-html-file-react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/internship-experience/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/tags/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>http://localhost:8000/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/blog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/projects/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
