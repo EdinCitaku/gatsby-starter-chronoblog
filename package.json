@@ -9,7 +9,9 @@
   "scripts": {
     "build": "gatsby build",
     "clean": "gatsby clean",
-    "start": "gatsby develop"
+    "start": "gatsby develop",
+    "deploy": "gatsby build && gh-pages -d public -b deploy"
+
   },
   "dependencies": {
     "gatsby": "^2.23.3",
@@ -19,7 +21,8 @@
     "gatsby-plugin-sitemap": "^2.2.21",
     "gatsby-theme-chronoblog": "^0.26.1",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "gh-pages": "^2.2.0"
   },
   "devDependencies": {
     "eslint": "^6.6.0",
