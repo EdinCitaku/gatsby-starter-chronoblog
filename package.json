@@ -12,6 +12,48 @@
     "start": "gatsby develop",
     "deploy": "gatsby build && gh-pages -d public -b deploy"
   },
+  "eslintConfig": {
+    "env": {
+      "browser": true,
+      "es6": true,
+      "node": true
+    },
+    "parserOptions": {
+      "ecmaFeatures": {
+        "impliedStrict": true,
+        "jsx": true
+      },
+      "ecmaVersion": 2019,
+      "sourceType": "module",
+      "useJSXTextNode": true
+    },
+    "settings": {
+      "import/resolver": {
+        "node": {
+          "extensions": [
+            ".js",
+            ".jsx",
+            ".ts",
+            ".tsx",
+            "md",
+            "mdx"
+          ]
+        }
+      },
+      "react": {
+        "version": "detect"
+      }
+    },
+    "plugins": [
+      "prettier"
+    ],
+    "extends": [
+      "plugin:prettier/recommended"
+    ],
+    "rules": {
+      "prettier/prettier": "warn"
+    }
+  },
   "dependencies": {
     "gatsby": "^2.23.3",
     "gatsby-plugin-disqus": "^1.1.4",
