@@ -13,7 +13,7 @@ A good friend of mine, lets call him Noah, whom I advised about his resume was s
 First things first, what resume template should you use? Honestly it doesnt matter much, I recommend some template from [overleaf](https://de.overleaf.com/gallery/tagged/cv) and I personally use [this](https://de.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn) one. But feel free to use any resume template you seem fit. Also consider that some european companies, for instance in germany, do prefer a picture in the resume. The template should fullfill some basic things, as you will see below.
 Lets look at the first resume Noah send me in order to see what basic form a resume should have.
 I removed all the personal information, they were applying for internships in the field of embedded software engineering.
-![resume-v1](./resume-v1.png).
+![resume-v1](./resume-v1.png)
 Just looking at this resume, I immediately advised Noah to change their resume template.
 There are way too many headlines that dont provide any content, the headlines "position", "time period"  and "field of work" all appear a total of four times in the whole resume. Additionally the actual content is too short, Noah had multible job experiences but the resume barely explains what they entailed.
 Here a quick summary when looking at the form of your own resume:
@@ -31,7 +31,7 @@ So as a summary on what one should pay attention when writing their resume:
 - Try to add metrics when possible
 
 # The final version
-So after considering all this feedback, this is Noahs resume in its final form.
+So after considering all this feedback, this is Noahs resume in its final form
 ![resume-v2](./resume-v2.png)
 Much better don't you think? 
 If you happen to be one of my friends that is planning to ask me for resume advice, please follow the guide lines on this blog post first. If you don't do that, dont be suprised if you get a link to this post as an answer to your request for advice.
