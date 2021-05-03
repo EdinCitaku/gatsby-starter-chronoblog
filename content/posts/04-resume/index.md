@@ -8,7 +8,7 @@ tags: ['blog', 'resume']
 
 While being mod in the [CS Career Hub](https://cscareerhub.com/) discord I have looked at and suggested improvements for many resumes over the time. I used the knowledge I gained there to land internships at companies like jetbrains or amazon.
 As of recentely quite a few of my friends and acquaintances have decided to do a career move into tech or are about to finish their degree in a tech related study and many of them are asking me about advice on how to improve their resume. Since I am becoming too lazy to reitarate the same points over and over, this blog post is supposed to be a first reference before asking me for advice.
-A good friend of mine, lets call him Noah, whom I advised about his resume was so nice and give me permission to use his resume as an example, you will see the first version and its improvements below.
+A good friend of mine, lets call him Noah, whom I advised about his resume was so nice to give me permission to use his resume as an example, you will see the first version and its improvements below.
 # The form
 First things first, what resume template should you use? Honestly it doesnt matter much, I recommend some template from [overleaf](https://de.overleaf.com/gallery/tagged/cv) and I personally use [this](https://de.overleaf.com/latex/templates/jakes-resume-anonymous/cstpnrbkhndn) one. But feel free to use any resume template you seem fit. Also consider that some european companies, for instance in germany, do prefer a picture in the resume. The template should fullfill some basic things, as you will see below.
 Lets look at the first resume Noah send me in order to see what basic form a resume should have.
