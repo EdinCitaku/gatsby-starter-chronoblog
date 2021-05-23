@@ -1,8 +1,7 @@
 ---
 title: A quick guide on how to improve your tech resume
-cover: ./image.png
 date: 2021-05-03
-description: This is a short collections of tipps and tricks for your resume that I have gathered over time 
+description: A short collections of tipps and tricks for your resume that I have gathered over time 
 tags: ['blog', 'resume']
 ---
 

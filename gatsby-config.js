@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
       siteTitle: 'Edin Citaku',
-      siteDescription: 'Portfolio site of Edin Citaku',
+      siteDescription: 'Blog of Edin Citaku',
       siteImage: '/banner.png', // main image of the site for metadata
       siteUrl: 'http://localhost:8000/',
       pathPrefix: '/',
