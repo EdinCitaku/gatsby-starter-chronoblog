@@ -1,7 +1,7 @@
 ---
 title: Collection of tech blogs
 date: 2021-10-25
-description: I couldn't find a list of good tech blogs so I created my own and will try to maintain it
+description: I couldn't find a list of good tech blogs so I created my own and will try to keep it up to date regularly
 tags: ['blog']
 ---
 
