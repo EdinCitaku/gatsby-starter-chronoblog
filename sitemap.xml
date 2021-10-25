@@ -25,6 +25,7 @@
 <url> <loc>http://localhost:8000/notes/codepen/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/notes/google-presentation/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/notes/note-chronoblog/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>http://localhost:8000/05-blogs/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/04-resume/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/03-notion/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>http://localhost:8000/01-loading-html-file-react/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
