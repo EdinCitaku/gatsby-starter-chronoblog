@@ -1,5 +1,5 @@
 ---
-title: Software Engineering internship at Amazon Luxembourg
+title: My Software Engineering internship at Amazon Luxembourg
 date: 2022-12-03
 description: My experience as an intern at Amazon as well as my impression of the Luxembourg office
 tags: ['blog']
