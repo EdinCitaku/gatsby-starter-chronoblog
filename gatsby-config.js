@@ -3,14 +3,14 @@ module.exports = {
       siteTitle: 'Edin Citaku',
       siteDescription: 'Blog of Edin Citaku',
       siteImage: '/banner.png', // main image of the site for metadata
-      siteUrl: 'http://localhost:8000/',
+      siteUrl: 'https://edincitaku.com',
       pathPrefix: '/',
       siteLanguage: 'en',
       ogLanguage: `en_US`,
       author: 'Edin Citaku', // for example - 'Ivan Ganev'
       authorDescription: 'A passion driven Computer Science student', // short text about the author
       avatar: '/avatar.jpg',
-      twitterSite: '', // website account on twitter
+      twitterSite: 'Edin_Citaku', // website account on twitter
       twitterCreator: '', // creator account on twitter
       social: [
         {
@@ -28,6 +28,10 @@ module.exports = {
           {
               icon: `linkedin`,
               url: `https://www.linkedin.com/in/edin-citaku-564000127/`
+          },
+          {
+              icon: `discord`,
+              url: `https://discord.com/users/219797278368464897`
           }
       ]
   },
