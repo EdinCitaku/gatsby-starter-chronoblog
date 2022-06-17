@@ -38,7 +38,7 @@ export default {
   },
   fonts: {
     ...chronoblogTheme.fonts,
-    body: "'Roboto', sans-serif",
+    body: "'Source Sans Pro', sans-serif",
     heading: 'inherit',
     monospace: 'Menlo, monospace'
   }
