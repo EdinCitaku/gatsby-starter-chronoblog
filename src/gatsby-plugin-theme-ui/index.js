@@ -38,7 +38,7 @@ export default {
   },
   fonts: {
     ...chronoblogTheme.fonts,
-    body: '-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif',
+    body: "'Roboto', sans-serif",
     heading: 'inherit',
     monospace: 'Menlo, monospace'
   }

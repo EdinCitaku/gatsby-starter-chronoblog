@@ -82,6 +82,11 @@ module.exports = {
               // replace "UA-XXXXXXXXX-X" with your own Tracking ID
               trackingId: 'UA-192936292-2'
           }
-      }
+      },
+      {
+        resolve: "gatsby-plugin-web-font-loader",
+          options: {
+      },
+    },
   ]
 };
