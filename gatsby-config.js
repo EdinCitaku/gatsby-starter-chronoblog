@@ -28,10 +28,6 @@ module.exports = {
           {
               icon: `linkedin`,
               url: `https://www.linkedin.com/in/edin-citaku-564000127/`
-          },
-          {
-              icon: `discord`,
-              url: `https://discord.com/users/219797278368464897`
           }
       ]
   },
